@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Go<br>🎯 Goals: Goals: Build open-source tools to help developers ship faster</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Go<br>🎯 Goals: Build open-source tools to help developers ship faster</p>
 
 ###
 
